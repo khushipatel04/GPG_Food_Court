@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">GPG Food Court-Customer</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="sing">Sign Up</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+    <string name="spinner_title" translatable="false">Select Area</string>
+
+    <string name="pic_myslf" translatable="false">Pickup Myself</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+</resources>

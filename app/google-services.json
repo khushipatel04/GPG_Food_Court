@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "362191823178",
+    "project_id": "gpg-food-court-f1723",
+    "storage_bucket": "gpg-food-court-f1723.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362191823178:android:413d12b0833c14b4f3a1b3",
+        "android_client_info": {
+          "package_name": "com.freshfastfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "362191823178-mulrsa72g0u3lpjar1omvdortgo336t9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR_UOSFZLz1DWruECerTAtmJSjT8lsk-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "362191823178-mulrsa72g0u3lpjar1omvdortgo336t9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362191823178:android:bc360cb4557016aaf3a1b3",
+        "android_client_info": {
+          "package_name": "com.khushi.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "362191823178-mulrsa72g0u3lpjar1omvdortgo336t9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR_UOSFZLz1DWruECerTAtmJSjT8lsk-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "362191823178-mulrsa72g0u3lpjar1omvdortgo336t9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
