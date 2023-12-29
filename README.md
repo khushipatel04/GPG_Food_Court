@@ -3,3 +3,5 @@ In today’s age of fast canteen automation in the Canteen many Canteens have ch
 Nowadays people don’t have much time to spend in canteen by just there and waiting for the waiter to take their order. Many customer visits the canteen in their lunch break and recess so they have limited time to eat. So this software helps them to save time and order food whenever they want without calling the waiter again and again.
 
 This GPG, food court system enables the end users to register online, read and select the food from e-menu card and order the food online by just selecting the food that the user want to have using android application. The user will have a username and a password, by using which they can login into the system and this application user can also pay money on online mode so they don’t need to pay every time cash at the time of delivery. 
+
+Install: /app-debug.apk
