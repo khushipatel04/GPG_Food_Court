@@ -4,4 +4,3 @@ Nowadays people don’t have much time to spend in canteen by just there and wai
 
 This GPG, food court system enables the end users to register online, read and select the food from e-menu card and order the food online by just selecting the food that the user want to have using android application. The user will have a username and a password, by using which they can login into the system and this application user can also pay money on online mode so they don’t need to pay every time cash at the time of delivery. 
 
-Install: /app-debug.apk
